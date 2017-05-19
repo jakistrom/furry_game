@@ -1,0 +1,22 @@
+{
+  "name": "furry_game",
+  "version": "1.0.0",
+  "description": "## Przygotowanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakistrom/WAR_FRO_S_17_FE_REACT_Furry_Game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakistrom/WAR_FRO_S_17_FE_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/jakistrom/WAR_FRO_S_17_FE_REACT_Furry_Game#readme"
+}
